@@ -1,4 +1,3 @@
-import ChoseItem from "../models/SelectedItem.js";
 import SelectedList from "../models/SelectedList.js";
 import data from "../data/Data.json" assert {type: 'json'};
 import SelectedItem from "../models/SelectedItem.js";
